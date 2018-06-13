@@ -81,4 +81,8 @@
     float: right;
     font-size: 1.5em;
   }
+
+  #logo {
+    padding: 60px 0 0;
+  }
 }
